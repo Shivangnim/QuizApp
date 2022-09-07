@@ -80,9 +80,9 @@ const questions = [
   {
     question: 'Choose the correct HTML element for the largest heading?',
     answers: [
-      { text: '<h6>', correct: true },
+      { text: '<h1>', correct: true },
       { text: 'head', correct: false },
-      { text: '<h1>', correct: false },
+      { text: '<h6>', correct: false },
       { text: '<h7>', correct: false }
     
     ]
